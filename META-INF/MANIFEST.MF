@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_131 (Oracle Corporation)
+
+Name: codecheck.log
+SHA-256-Digest: ZPix1JV/mwSi2ILJ7gPkYijmkch15I1E2vueft7t+jg=
+
+Name: report.html
+SHA-256-Digest: QXoszX4PIIg3EJiZ17pyH/HrXTmOMT56uVJynmbhl5E=
+
+Name: WateringPlans.cpp
+SHA-256-Digest: OV8T/ke/8GTmVmJBfptTQ/ItOZ/FJ0/iAy9fDsZ77m4=
+
+Name: codecheck.out
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
